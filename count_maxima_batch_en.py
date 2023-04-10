@@ -2,7 +2,7 @@
 # 
 # This FIJI macro allows counting of intracellular fluorescent condensates observed in time-lapse microscopy of yeast cells.
 # As input for the timel-lapse image data, a hyperstack file that contains a pair of phase contrast (Ch #1) and fluorescence (Ch #2) z-stack images at each frame is required.
-# This macro is optimized for images accuired by using a 60x objective lens.
+# This macro is optimized for images accuired by using a 100x objective lens.
 
 # author: Masak Takaine
 
